@@ -18,22 +18,22 @@
 
 ## 💻 Tech Stack
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,java" />
+
+<h3 align="left">Programming Languages</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,java" alt="Programming Languages" />
 </p>
 
-### Frameworks & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,ts,tailwind,nodejs" alt="React, Next.js, NestJS, TypeScript, Tailwind CSS and Node.js" />
+<h3 align="left">Frameworks & Technologies</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,ts,tailwind,nodejs" alt="Frameworks and Technologies" />
 </p>
 
-
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" />
+<h3 align="left">Databases & Tools</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" alt="Databases and Tools" />
 </p>
+
 
 ## 🚀 Featured Projects
 
